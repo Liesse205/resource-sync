@@ -3,11 +3,11 @@
 Resource Sync is a backend knowledge structuring system that organizes scattered learning materials (notes, links, PDFs, videos, and code) into connected, concept-based clusters.
 
 ## Core Features
-• Store and manage learning resources (notes, links, files, code)  
-• Concept-based grouping of resources  
-• Intelligent duplicate detection and merging  
-• Relationship mapping between concepts  
-• RESTful backend with clean layered architecture (DTOs, services, repositories)
+- Store and manage learning resources (notes, links, files, code)  
+- Concept-based grouping of resources  
+- Intelligent duplicate detection and merging  
+- Relationship mapping between concepts  
+- RESTful backend with clean layered architecture (DTOs, services, repositories)
 
 ## Tech Stack
 · Java 17 
