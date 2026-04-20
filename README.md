@@ -15,8 +15,12 @@ mvn clean install
 mvn spring-boot:run
 ```
 ## Key Features
--Store and manage learning resources (notes, links, files, code)
--Concept-based grouping of resources
--Intelligent duplicate detection and merging
--Relationship mapping between concepts
--RESTful backend with clean layered architecture (DTOs, services, repositories)
+*Store and manage learning resources (notes, links, files, code)
+
+*Concept-based grouping of resources
+
+*Intelligent duplicate detection and merging
+
+*Relationship mapping between concepts
+
+*RESTful backend with clean layered architecture (DTOs, services, repositories)
