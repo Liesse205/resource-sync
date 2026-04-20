@@ -1,4 +1,4 @@
-# Resource-Sync: Knowledge Structuring Engine
+# Resource-Sync
 
 Resource Sync is a backend knowledge structuring system that organizes scattered learning materials (notes, links, PDFs, videos, and code) into connected, concept-based clusters. It goes beyond storage by detecting duplicate resources, linking related ideas, and building a structured knowledge map that improves how information is stored, searched, and understood.
 
